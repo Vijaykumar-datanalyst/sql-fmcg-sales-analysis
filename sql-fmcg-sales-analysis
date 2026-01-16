@@ -1,0 +1,21 @@
+# FMCG Sales Analysis Project (SQL)
+
+## Overview
+This project analyzes FMCG sales data using SQL to derive business insights related to sales performance, revenue, and product trends.
+
+## Dataset
+- FMCG sales transactional data
+
+## Key Analysis Performed
+- Total sales and revenue analysis
+- Product-wise and category-wise performance
+- Time-based analysis (daily / monthly trends)
+- Identification of top-performing products
+- KPI calculations using SQL aggregations
+
+## Tech Stack
+- SQL (MySQL)
+- FMCG Sales Dataset
+
+## Author
+Eslavath Vijaykumar
